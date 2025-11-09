@@ -6,12 +6,10 @@ My theme differs as I changed te colors to be more high contrast, and saturated,
 (I know it defeats the point of the originals being minimal and easy on the eyes, but I did it anyway)
 Another inspiration for the contrast was [Ethan Schoonover's Solarized](https://ethanschoonover.com/solarized/)
 ### preview:
-
+https://github.com/reintse/alabaster.darker.saturated.vim/blob/main/preview/alabaster-darker-saturated.png
 
 
 ## Requirements
-
-* Vim 8+ or Neovim
 * Terminal with true color support (or GUI Vim/Neovim)
 
 ## Installation
