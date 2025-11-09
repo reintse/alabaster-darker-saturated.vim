@@ -4,8 +4,9 @@ Fork of [sderev's Alabaster dark theme](https://github.com/sderev/alabaster.vim)
 
 Which is based on [tonsky's Alabaster theme](https://github.com/tonsky/sublime-scheme-alabaster).
 
-My theme differs as I changed the colors to be more high contrast, and saturated, out of preference. 
-(I know it defeats the point of the originals being minimal and easy on the eyes, but I did it anyway)
+My theme differs as I changed the colors to be more high contrast, and saturated, out of preference. I liked the way syntax highlighting was done in Alabaster but I preferred the higher contrast of Solarized
+(I know it defeats the point of the original Alabaster being minimal and easy on the eyes, but I did it anyway)
+
 
 An inspiration for the contrast was [Ethan Schoonover's Solarized](https://ethanschoonover.com/solarized/)
 
